@@ -1,7 +1,5 @@
 I am a coding enthusiast who wrote their first program when in elementary school using Q-Basic.  Since then, I have graduated from Vanderbilt University School of Engineering with an electrical engineering degree.  After working in the train control industry, I have found myself most enjoying the projects that I received that in anyway involved computer science.  As a result of this interest, my current goal is to enmesh myself in as many programming opportunities as I can, and make good use of all the resources at my disposal to do so.
 
-This site is a collection of past projects, published to contain as much relevant information as possible, including source, releases, documentation, and more.  All projects (except one) use the MIT license, so feel free to edit the source code for your own use.  There is also a blog for documenting my blunders with technology on the way.
-
 ## RESUME
 
 ### PROFILE
@@ -70,7 +68,7 @@ Washington, D.C.
 
 **DC Streetcar**: was responsible for developing safety signaling systems as well as formal documents to thoroughly test the design. Created a Python script in a Linux system to track live GPS data, transmit it through a cellular network, and then store it on a remote MySQL database. Designed a WinCC system to control and monitor GPS and SCADA transmissions to and from an Ansaldo Microlok II vital controller. Also, re-designed a reporting system for **Strasburg Water Treatment Plant** using WinCC and MS SQL.
 
-** Alstom Transport**
+**Alstom Transport**
 
 Systems Engineer
 
@@ -80,7 +78,7 @@ Hornell, New York
 
 **Baltimore Light Rail Vehicles (LRVs)**: modified existing electrical plans to route wiring through train interior, proofread technical specifications for final review, created an Excel file to perform engineering calculations for the LRV’s electrical systems. Assisted contractors in interpreting electrical schematics for the LRVs and coordinated efforts between the general engineering team and the electrical engineering team. Also performed miscellaneous duties, such as conduit sizing, product selection, and surveying of existing Baltimore LRVs to map electrical components.
 
-*Due to medical reasons, I have not been working full-time as an engineer since 2016. However, I have continued to be employed part-time, provide freelance software design and other technical services, learn new programming languages, develop applications to improve my skills and keep them current. Please refer to my GitHub page (https://github.com/rbrutherford3) to see my work.*
+*Due to medical reasons, I have not been working full-time as an engineer since 2016. However, I have continued to be employed part-time, provide freelance software design and other technical services, learn new programming languages, develop applications to improve my skills and keep them current. Please refer to the repositories on my GitHub page to see my work.*
 
 **Department of Labor Federal Credit Union (DOLFCU)**
 

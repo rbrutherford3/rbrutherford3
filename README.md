@@ -1,105 +1,125 @@
 I am a coding enthusiast who wrote their first program when in elementary school using Q-Basic.  Since then, I have graduated from Vanderbilt University School of Engineering with an electrical engineering degree.  After working in the train control industry, I have found myself most enjoying the projects that I received that in anyway involved computer science.  As a result of this interest, my current goal is to enmesh myself in as many programming opportunities as I can, and make good use of all the resources at my disposal to do so.
 
-## RESUME
+# RESUME
 
-### PROFILE
+## PROFILE
 
 Electrical engineer with software development experience from system design through testing and delivery. Seeking to put broad skillset and proven analytical, technical, and programming skills to use as a software developer for engineering applications.
 
-### SKILLS
+## SKILLS
 
-Software Design:
+**Software Design**
 
-`Java`
-`C#`
-`Android`
-`Linux`
+- `Java`
+- `C#`
+- `Android`
+- `Linux shell`
+- `.NET`
+- `Python`
 
-Data Querying
+**Data Querying**
 
-`SQL`
-`MySQL`
-`SQL Server`
+- `SQL`
+- `MySQL`
+- `Microsoft SQL Server`
 
-Dynamic Website Design
+**Dynamic Website Design**
 
-`PHP`
-`MySQL`
+- `PHP`
+- `MySQL`
+- `Django`
+- `Jekyll`
+- `ASP.NET`
 
-Responsive Website Design
+**Responsive Website Design**
 
-`HTML`
-`CSS`
-`Bootstrap`
+- `HTML`
+- `CSS`
+- `Bootstrap`
 
-Human-Machine Interface (HMI)
+**Human-Machine Interface (HMI)**
 
-### EDUCATION
+- ``WinCC``
 
-**Vanderbilt University School of Engineering**
+## WORK EXPERIENCE
 
-2009
+### SnailWorks
 
-Electrical Engineering (major)
+Junior Software Developer
 
-Engineering Management (minor)
+- Wrote ASP, HTML, JavaScript, and CSS for responsive website (https://www.snailworks.com/)
+- Designed dynamic and responsive ASP.NET blog (https://snailworks.com/blog/)
+- Refined C# code for numerous ASP.NET tools that constitute company's primary mail tracking product
+- Modified SQL scripts for other tools used in mail tracking
+- Created and edited Microsoft SQL Server database tables that provided information to clients
+- Entered data to support secondary product offerings to mail tracking clients using FTP connections
+- Met frequently with team members to collaborate efforts to improve production
 
-GPA: 3.36, with four semesters on the Dean’s List
-
-### WORK EXPERIENCE
-
-**Parsons Transportation Group**
-
-Railway Signal Engineer
-
-Baltimore, Maryland
-
-2010 - 2012
-
-**Denver I-225 Light Rail Extension**: outlined equipment layout to prevent train collisions, designed software with graphics to show safety equipment placement problems, wrote and reviewed design specifications for signaling systems; **Baltimore’s Camden Yards Light Rail Station**: drafted circuit plans to prevent derailments, prepared cost estimates and work schedules; **North Avenue Light Rail Yard**: surveyed existing rail equipment layout; **Houston MetroRAIL System**: re-designed equipment layouts on four separate extensions; **Orlando SunRail Project**: calculated braking distances, administered safety review of circuit details for over 50 locations.
-
-**M.C. Dean**
-
-Train Control Engineer
-
-Washington, D.C. 
-
-2013-2014
-
-**DC Streetcar**: was responsible for developing safety signaling systems as well as formal documents to thoroughly test the design. Created a Python script in a Linux system to track live GPS data, transmit it through a cellular network, and then store it on a remote MySQL database. Designed a WinCC system to control and monitor GPS and SCADA transmissions to and from an Ansaldo Microlok II vital controller. Also, re-designed a reporting system for **Strasburg Water Treatment Plant** using WinCC and MS SQL.
-
-**Alstom Transport**
+### Alstom Transport
 
 Systems Engineer
 
-Hornell, New York
+- Modified existing plans to route wiring through train interior for new Baltimore light rail vehicles (LRVs)
+- Proofread train electrical system technical specifications for final review
+- Created Excel file to perform engineering calculations for electrical systems in Baltimore LRVs
+- Assisted contractors in interpreting electrical schematics for Baltimore LRVs
+- Assisted engineers in miscellaneous duties, including conduit sizing and product selection
+- Surveyed existing Baltimore LRVs to map electrical components such as grounding rods and more
+- Coordinated efforts between general engineering team and electrical engineering team in daily meetings 
 
-2015-2016
+### M.C. Dean
 
-**Baltimore Light Rail Vehicles (LRVs)**: modified existing electrical plans to route wiring through train interior, proofread technical specifications for final review, created an Excel file to perform engineering calculations for the LRV’s electrical systems. Assisted contractors in interpreting electrical schematics for the LRVs and coordinated efforts between the general engineering team and the electrical engineering team. Also performed miscellaneous duties, such as conduit sizing, product selection, and surveying of existing Baltimore LRVs to map electrical components.
+Associate Train Control Engineer
 
-*Due to medical reasons, I have not been working full-time as an engineer since 2016. However, I have continued to be employed part-time, provide freelance software design and other technical services, learn new programming languages, develop applications to improve my skills and keep them current. Please refer to the repositories on my GitHub page to see my work.*
+- Responsible for developing signaling systems for the DC Streetcar project
+- Developed GPS tracking system for the DC Streetcar project using Linux and Python
+- Developed data collection for the DC Streetcar GPS system using a MySQL database
+- Participated in the formal testing of various signaling systems on the DC Streetcar project
+- Designed a WinCC program to display signaling SCADA data and GPS location data
+- Wrote code for transmitting SCADA data from an Ansaldo Microlok II to WinCC
+- Re‐designed daily reporting system for a water treatment plant using WinCC and MS SQL 
 
-**Department of Labor Federal Credit Union (DOLFCU)**
+### Parsons
 
-2015
+Railway Signal Engineer
 
-Assisted in merger with **National Labor Relations Board Federal Credit Union (NLRBFCU)**, provided data transfer of hundreds of credit union accounts into DOLFCU’s system.
+- Designed safety equipment layout for Denver I-225 Light Rail Extension to prevent train collisions
+- Developed script to check safety equipment placement on the Denver I-225 Light Rail Extension
+- Designed graphics later used by colleagues to show safety equipment placement problems
+- Designed circuitry for preventing derailments at the Camden Yards Light Rail station in Baltimore
+- Developed cost estimate and work schedule for a Camden Yards Light Rail Station modification
+- Surveyed existing rail equipment layout of the North Avenue Light Rail Yard in Baltimore
+- Re-designed equipment layouts on four separate extensions of the Houston MetroRAIL system
+- Designed worksheets to calculate braking distances for the proposed SunRail project in Orlando
+- Performed safety review of circuit details of over 50 locations for SunRail project in Orlando
+- Wrote and reviewed design specifications for signaling systems on three different projects 
 
-**Progressive Democrats of Western New York**
+Engineering Intern
 
-2016
+- Performed surveys of fire safety equipment for two Metrobus service garages in DC
+- Drafted mechanical system layouts of four DC Metrobus service garages using AutoCAD
+- Performed quality assurance of DC Metrobus garage drawings for 50% progress project submittal
+- Calculated path of sewage ejection system at King Street Metrorail System in Alexandria
+- Proofread technical specifications for Rosslyn Metro Station rehabilitation project 
 
-Canvassed neighborhoods to gather petition signatures for adding local political candidates to the upcoming election ballot, obtained 15%-20% of constituency signatures, oversaw petitions, to meet legal quality standards.
+### MITRE
 
-**Housing Authority of Baltimore City (HABC)**
+Technical Co-op
 
-2017
+- Designed PL/SQL script to extract, transform and load FAA radar data into an Oracle database
+- Developed Java program to transfer radar data securely from the FAA and parse it into Oracle
+- Created a Visual Basic program to load complex ASCII flight data into Excel for analysis 
 
-Provided oversight on housing contracts to determine property ownership, analyzed data to dispute water bills from Baltimore City Department of Public Works to HABC.
+## EDUCATION
 
-**Vie de France**
+**Vanderbilt University School of Engineering**
 
-2018-2019
+*Nashville, TN*
 
-Greeted customers, prepared drinks, served food items, operated the cash register, assembled, and delivered catering to customers, oversaw monthly inventory.
+`Electrical Engineering`
+
+2009
+
+- Engineering Management (minor)
+- GPA: 3.36
+- Four semesters on the Dean’s List

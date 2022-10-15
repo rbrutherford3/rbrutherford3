@@ -26,8 +26,8 @@ Electrical engineer with software development experience from system design thro
 **Dynamic Website Design**
 
 - `PHP`
-- `MySQL`
 - `Django`
+- `Flask`
 - `Jekyll`
 - `ASP.NET`
 
@@ -36,6 +36,12 @@ Electrical engineer with software development experience from system design thro
 - `HTML`
 - `CSS`
 - `Bootstrap`
+
+**Server Management**
+
+- `Apache`
+- `NGINX`
+- `AWS`
 
 **Human-Machine Interface (HMI)**
 
@@ -114,12 +120,8 @@ Technical Co-op
 
 **Vanderbilt University School of Engineering**
 
-*Nashville, TN*
+Electrical Engineering
 
-`Electrical Engineering`
-
-2009
-
-- Engineering Management (minor)
 - GPA: 3.36
+- Engineering Management (minor)
 - Four semesters on the Dean’s List

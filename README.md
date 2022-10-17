@@ -43,6 +43,12 @@ Electrical engineer with software development experience from system design thro
 - `NGINX`
 - `AWS`
 
+**Version Control**
+
+- `Git`
+- `GitHub`
+- `TortoiseSVN`
+
 **Human-Machine Interface (HMI)**
 
 - ``WinCC``

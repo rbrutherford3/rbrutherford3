@@ -1,10 +1,8 @@
-# ABOUT ME
+# About Me
 
-I am a coding enthusiast who wrote their first program when in elementary school using Q-Basic.  Since then, I have graduated from Vanderbilt University School of Engineering with an electrical engineering degree.  After working in the train control industry, I have found myself most enjoying the projects that I received that in anyway involved computer science.  As a result of this interest, my current goal is to enmesh myself in as many programming opportunities as I can, and make good use of all the resources at my disposal to do so.
+I am a coding enthusiast who wrote their first program when in elementary school using Q-Basic.  Since then, I have graduated from Vanderbilt University School of Engineering with an electrical engineering degree.  After working in the train control industry, I have found myself most enjoying the projects that I received that in anyway involved computer science.  As a result of this interest, my current goal is to enmesh myself in as many programming opportunities as I can, and make use of all the resources at my disposal to do so.
 
-# RESUME
-
-## SKILLS
+# Skills
 
 **Software Design**
 
@@ -51,11 +49,11 @@ I am a coding enthusiast who wrote their first program when in elementary school
 
 - ``WinCC``
 
-## WORK EXPERIENCE
+# Experience
 
-### SnailWorks
+## SnailWorks
 
-Junior Software Developer
+**Junior Software Developer**
 
 - Wrote ASP, HTML, JavaScript, and CSS for responsive website (https://www.snailworks.com/)
 - Designed dynamic and responsive ASP.NET blog (https://snailworks.com/blog/)
@@ -65,9 +63,9 @@ Junior Software Developer
 - Entered data to support secondary product offerings to mail tracking clients using FTP connections
 - Met frequently with team members to collaborate efforts to improve production
 
-### Alstom Transport
+## Alstom Transport
 
-Systems Engineer
+**Systems Engineer**
 
 - Modified existing plans to route wiring through train interior for new Baltimore light rail vehicles (LRVs)
 - Proofread train electrical system technical specifications for final review
@@ -77,9 +75,9 @@ Systems Engineer
 - Surveyed existing Baltimore LRVs to map electrical components such as grounding rods and more
 - Coordinated efforts between general engineering team and electrical engineering team in daily meetings 
 
-### M.C. Dean
+## M.C. Dean
 
-Associate Train Control Engineer
+**Associate Train Control Engineer**
 
 - Responsible for developing signaling systems for the DC Streetcar project
 - Developed GPS tracking system for the DC Streetcar project using Linux and Python
@@ -89,9 +87,9 @@ Associate Train Control Engineer
 - Wrote code for transmitting SCADA data from an Ansaldo Microlok II to WinCC
 - Re‐designed daily reporting system for a water treatment plant using WinCC and MS SQL 
 
-### Parsons
+## Parsons
 
-Railway Signal Engineer
+**Railway Signal Engineer**
 
 - Designed safety equipment layout for Denver I-225 Light Rail Extension to prevent train collisions
 - Developed script to check safety equipment placement on the Denver I-225 Light Rail Extension
@@ -104,7 +102,7 @@ Railway Signal Engineer
 - Performed safety review of circuit details of over 50 locations for SunRail project in Orlando
 - Wrote and reviewed design specifications for signaling systems on three different projects 
 
-Engineering Intern
+**Engineering Intern**
 
 - Performed surveys of fire safety equipment for two Metrobus service garages in DC
 - Drafted mechanical system layouts of four DC Metrobus service garages using AutoCAD
@@ -112,19 +110,19 @@ Engineering Intern
 - Calculated path of sewage ejection system at King Street Metrorail System in Alexandria
 - Proofread technical specifications for Rosslyn Metro Station rehabilitation project 
 
-### MITRE
+## MITRE
 
-Technical Co-op
+**Technical Co-op**
 
 - Designed PL/SQL script to extract, transform and load FAA radar data into an Oracle database
 - Developed Java program to transfer radar data securely from the FAA and parse it into Oracle
 - Created a Visual Basic program to load complex ASCII flight data into Excel for analysis 
 
-## EDUCATION
+# Education
 
-**Vanderbilt University School of Engineering**
+## Vanderbilt University School of Engineering
 
-Electrical Engineering
+**Electrical Engineering**
 
 - GPA: 3.36
 - Engineering Management (minor)

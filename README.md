@@ -1,7 +1,3 @@
-# About Me
-
-I am a coding enthusiast who wrote their first program when in elementary school using Q-Basic.  Since then, I have graduated from Vanderbilt University School of Engineering with an electrical engineering degree.  After working in the train control industry, I have found myself most enjoying the projects that I received that in anyway involved computer science.  As a result of this interest, my current goal is to enmesh myself in as many programming opportunities as I can, and make use of all the resources at my disposal to do so.
-
 # Skills
 
 **Software Design**
